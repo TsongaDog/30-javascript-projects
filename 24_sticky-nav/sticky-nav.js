@@ -1,5 +1,4 @@
 const nav = document.querySelector('#main');
-const logo = document.querySelector('.logo');
 let navTop = nav.offsetTop
 
 function fixNav() {
